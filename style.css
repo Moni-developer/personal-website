@@ -1,0 +1,139 @@
+body{
+    margin:0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.top-banner{
+    background-repeat: no-repeat;
+    background-image: url("images/header-bg.png");
+    background-size: auto 100%;
+    
+}
+
+.special{
+    color:rgba(255, 20, 145, 0.767);
+    font-size: 40px;
+    font-weight: 700;
+  
+}
+.half-width p{
+    color:dimgray;
+    padding-bottom: 30px;
+}
+.half-width{
+    width:25%;
+    float:left;
+    margin-left:10%;
+    padding-left:5%;
+    margin-top: 7%;
+}
+
+.half-width img{
+    width:100%;
+
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: rgba(255, 20, 145, 0.767);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color:white;
+    
+}
+
+section{
+    height: 500px;
+    padding-bottom: 70px;
+}
+
+.biography-area{
+    background-repeat: no-repeat;
+    background-image: url("images/biography-bg.png");
+    background-size: cover;
+
+}
+
+.my-latest-work{
+    background-repeat: no-repeat;
+    background-image: url("images/latest-work-bg.png");
+    background-size:cover;
+
+}
+#work{
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  .imageColumn {
+    float: left;
+    width: 30%;
+    padding: 10px;
+ }
+
+ .client{
+    background-repeat: no-repeat;
+    background-image: url("images/footer-bg.png");
+    background-size:cover;
+}
+.client 
+
+footer{
+    text-align: center;
+   
+}
+
+.last-part h1{
+    padding-bottom: 40px;
+}
+.last-part h4{
+    padding-bottom: 40px;
+}
+.button{
+    box-sizing: border-box;
+    background-color: rgba(255, 20, 145, 0.767);
+    border-radius: 5px;
+    color:white;
+    height:110px;
+    width:700px;
+    margin: 0 auto;
+}
+.mail{
+    text-decoration: none;
+    color:white;
+    font-style:bold;
+    font-size: 25px;
+}
+.xy{
+    padding-top: 100px;
+}
+
+.education{
+    background-repeat: no-repeat;
+    background-image: url("images/footer-bg.png");
+    background-size:cover;
+}
+.exp1{
+    border: 2px solid purple;
+    border-radius:10px;
+    height:200px;
+    width:70%;
+    padding:5px 5px;
+    font-size:20px;
+    color:black;
+    font-family: Helvetica,Arial,sans-serif;
+    margin:20px 20px 20px 20px;
+    
+}
+
+#mm{
+    
+    color:rgba(255, 20, 145, 0.767);
+    padding-top: 50px;
+    font-weight: 700;
+
+}
